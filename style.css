@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+main{
+    height: 80px;
+}
+header{
+    background-color: #ffd700;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+p{
+    padding-top: 10px;
+}
+ ul{
+    padding: 30px;
+ }
